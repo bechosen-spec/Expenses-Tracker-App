@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/https//bechosen-spec.github.io/Expenses-Tracker-App/static/css/main.e9f44403.css",
-    "main.js": "/https//bechosen-spec.github.io/Expenses-Tracker-App/static/js/main.170e2f13.js",
-    "index.html": "/https//bechosen-spec.github.io/Expenses-Tracker-App/index.html",
-    "main.e9f44403.css.map": "/https//bechosen-spec.github.io/Expenses-Tracker-App/static/css/main.e9f44403.css.map",
-    "main.170e2f13.js.map": "/https//bechosen-spec.github.io/Expenses-Tracker-App/static/js/main.170e2f13.js.map"
+    "main.css": "/Expenses-Tracker-App/static/css/main.e9f44403.css",
+    "main.js": "/Expenses-Tracker-App/static/js/main.170e2f13.js",
+    "index.html": "/Expenses-Tracker-App/index.html",
+    "main.e9f44403.css.map": "/Expenses-Tracker-App/static/css/main.e9f44403.css.map",
+    "main.170e2f13.js.map": "/Expenses-Tracker-App/static/js/main.170e2f13.js.map"
   },
   "entrypoints": [
     "static/css/main.e9f44403.css",
